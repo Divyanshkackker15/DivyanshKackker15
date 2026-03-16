@@ -80,21 +80,12 @@ AI-driven posture analysis system using camera-based pose detection for real-tim
 
 ---
 
-### 📜 Certifications
-
-- 📘 **Data Structures & Backend with Java** — Coursera (Board Infinity)
-- 📗 **Database Management Systems** — Infosys
-- ☁️ **Oracle Cloud Infrastructure — AI Foundations Associate**
-- 🍃 **Spring & Spring Boot**
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshkackker15&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Divyanshkackker15&theme=default&hide_border=true" width="48%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshkackker15&layout=compact&theme=default&hide_border=true" width="40%"/>
