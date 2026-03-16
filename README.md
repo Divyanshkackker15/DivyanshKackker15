@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-> Pre-final year B.E. Computer Science student at LNCT Bhopal with strong foundations in **Java, DSA, and Backend Development**. I build real-world web and AI-driven applications using Spring Boot, Hibernate, MySQL, and REST APIs. Interned at **Infosys Springboard** and contributed at **AICTE IDEA Lab**. Passionate about clean architecture and scalable code.
+> Pre-final year B.Tech. Computer Science student at LNCT Bhopal with strong foundations in **Java, DSA, and Backend Development**. I build real-world web and AI-driven applications using Spring Boot, Hibernate, MySQL, and REST APIs. Interned at **Infosys Springboard** and contributed at **AICTE IDEA Lab**. Passionate about clean architecture and scalable code.
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Institution | Qualification | Year | Score |
 |---|---|---|---|
-| LNCT Bhopal | B.E. Computer Science | 2023 – 2027 | CGPA: 8.08  |
+| LNCT Bhopal | B.Tech. Computer Science | 2023 – 2027 | CGPA: 8.08  |
 | Bal Bhawan School | Class 12 – CBSE | 2022 – 2023 | 80.00% |
 | Bal Bhawan School | Class 10 – CBSE | 2020 – 2021 | 81.90% |
 
