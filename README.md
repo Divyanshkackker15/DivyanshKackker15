@@ -21,7 +21,7 @@
 
 | Institution | Qualification | Year | Score |
 |---|---|---|---|
-| LNCT Bhopal | B.E. Computer Science | 2023 – 2027 | CGPA: 7.89 (SGPA: 8.46) |
+| LNCT Bhopal | B.E. Computer Science | 2023 – 2027 | CGPA: 8.08  |
 | Bal Bhawan School | Class 12 – CBSE | 2022 – 2023 | 80.00% |
 | Bal Bhawan School | Class 10 – CBSE | 2020 – 2021 | 81.90% |
 
@@ -84,7 +84,9 @@ AI-driven posture analysis system using camera-based pose detection for real-tim
 ---
 
 ### 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshkackker15&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+</p>
 
 
 <p align="center">
