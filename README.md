@@ -84,9 +84,9 @@ AI-driven posture analysis system using camera-based pose detection for real-tim
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyanshkackker15&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-</p>
+</p> -->
 
 
 <p align="center">
