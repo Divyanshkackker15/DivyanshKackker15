@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Divyansh Kackker</h1>
 <p align="center">
-  <b>Aspiring Software Engineer · Full Stack Developer · B.E. CSE @ LNCT Bhopal</b>
+  <b>Aspiring Software Engineer · Full Stack Developer · B.Tech. CSE @ LNCT Bhopal</b>
 </p>
 
 <p align="center">
