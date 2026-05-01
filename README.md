@@ -21,7 +21,7 @@
 
 | Institution | Qualification | Year | Score |
 |---|---|---|---|
-| LNCT Bhopal | B.Tech. Computer Science | 2023 – 2027 | CGPA: 8.08  |
+| LNCT Bhopal | B.Tech. Computer Science | 2023 – 2027 | CGPA: 7.8  |
 | Bal Bhawan School | Class 12 – CBSE | 2022 – 2023 | 80.00% |
 | Bal Bhawan School | Class 10 – CBSE | 2020 – 2021 | 81.90% |
 
